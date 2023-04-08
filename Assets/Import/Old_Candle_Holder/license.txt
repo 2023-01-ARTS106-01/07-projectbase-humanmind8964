@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Candle Holder
+* source:	https://sketchfab.com/3d-models/old-candle-holder-6d5c188ddfe143db90961503933f17d9
+* author:	Scar56 (https://sketchfab.com/Scar56)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Candle Holder" (https://sketchfab.com/3d-models/old-candle-holder-6d5c188ddfe143db90961503933f17d9) by Scar56 (https://sketchfab.com/Scar56) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
