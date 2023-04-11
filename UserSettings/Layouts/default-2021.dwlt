@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 59
+  controlID: 138
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 65
+  controlID: 139
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 66
+  controlID: 140
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -390,22 +390,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Import/Bone_Rock_Collection_1
+    - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Import/Bone_Rock_Collection_1
+  - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\g00307757\Documents\GitHub\07-projectbase-humanmind8964
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 30.333313}
-    m_SelectedIDs: aa5a0000
-    m_LastClickedID: 23210
-    m_ExpandedIDs: 000000006a5900006c5900006e5900002a5a00002c5a0000705a000000ca9a3bffffff7f
+    m_SelectedIDs: a45b0000
+    m_LastClickedID: 23460
+    m_ExpandedIDs: 000000003e5a0000405a0000425a0000445a0000465a0000bc5a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -433,7 +433,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006a5900006c5900006e590000
+    m_ExpandedIDs: 000000003e5a0000405a0000425a0000445a0000465a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -460,7 +460,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000a8210200605c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -520,9 +520,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d6b2ffff
-      m_LastClickedID: -19754
-      m_ExpandedIDs: d6b2ffffb2c9ffffb6c9ffffbac9ffff30fbffff
+      m_SelectedIDs: 94500000
+      m_LastClickedID: 20628
+      m_ExpandedIDs: f8f4fffffcf4ffff00f5ffff04f5ffff08f5ffff0cf5ffff10f5ffff14f5ffff1af5ffff30fbffff9250000096500000165100007e51000026520000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -620,12 +620,12 @@ MonoBehaviour:
       layout: 1
     - dockPosition: 0
       containerId: overlay-container--left
-      floating: 1
+      floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 78, y: -365.33337}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 2
+      snapCorner: 0
       id: unity-transform-toolbar
       index: 0
       layout: 2
@@ -771,9 +771,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 121.81172, y: -4.148224, z: 73.12467}
+    m_Target: {x: 186.28354, y: -23.992775, z: 7.790615}
     speed: 2
-    m_Value: {x: 121.81172, y: -4.148224, z: 73.12467}
+    m_Value: {x: 186.28354, y: -23.992775, z: 7.790615}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -820,13 +820,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.10039976, y: -0.89935803, z: 0.30996898, w: -0.29225698}
+    m_Target: {x: 0.11273113, y: -0.8725142, z: 0.41207352, w: 0.23797101}
     speed: 2
-    m_Value: {x: -0.099913724, y: -0.8996066, z: 0.31005415, w: -0.29084656}
+    m_Value: {x: 0.1130637, y: -0.8717102, z: 0.41329426, w: 0.23775135}
   m_Size:
-    m_Target: 107.93272
+    m_Target: 86.56066
     speed: 2
-    m_Value: 113.018555
+    m_Value: 86.56066
   m_Ortho:
     m_Target: 0
     speed: 2
