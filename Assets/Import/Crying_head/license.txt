@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crying head
+* source:	https://sketchfab.com/3d-models/crying-head-f4da660299be485a9e7bc722db2a68ad
+* author:	UROD Engine (https://sketchfab.com/Starven38)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crying head" (https://sketchfab.com/3d-models/crying-head-f4da660299be485a9e7bc722db2a68ad) by UROD Engine (https://sketchfab.com/Starven38) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
