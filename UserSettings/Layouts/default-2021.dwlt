@@ -390,22 +390,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
+    - Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
+  - Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\g00307757\Documents\GitHub\07-projectbase-humanmind8964
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 30.333313}
-    m_SelectedIDs: 0c5b0000
-    m_LastClickedID: 23308
-    m_ExpandedIDs: 000000003e5a0000405a0000425a0000445a0000465a0000c65a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 46.333313}
+    m_SelectedIDs: 445c0000
+    m_LastClickedID: 23620
+    m_ExpandedIDs: 00000000c25a0000c45a0000c65a0000ca5a0000fa5a00001c5c0000365c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -433,7 +433,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003e5a0000405a0000425a0000445a0000465a0000
+    m_ExpandedIDs: 00000000c25a0000c45a0000c65a0000c85a0000ca5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,9 +520,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 16510000
-      m_LastClickedID: 20758
-      m_ExpandedIDs: 2efbffff165100007e510000b0510000c4510000c6510000cc510000065200001052000026520000285200003a5200004a52000056520000585200005c5200006a5200006e520000
+      m_SelectedIDs: dc060000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -771,9 +771,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 193.40796, y: -6.6967087, z: 164.74086}
+    m_Target: {x: 95.275665, y: -53.96141, z: 120.1369}
     speed: 2
-    m_Value: {x: 193.40796, y: -6.6967087, z: 164.74086}
+    m_Value: {x: 95.275665, y: -53.96141, z: 120.1369}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -820,13 +820,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15541181, y: -0.83141065, z: 0.28798524, w: -0.4495509}
+    m_Target: {x: -0.026741661, y: -0.9123449, z: 0.40450764, w: -0.060951237}
     speed: 2
-    m_Value: {x: -0.15427448, y: -0.83233744, z: 0.28690794, w: -0.44843912}
+    m_Value: {x: -0.026129257, y: -0.9122393, z: 0.40446043, w: -0.059569854}
   m_Size:
-    m_Target: 83.30743
+    m_Target: 112.22665
     speed: 2
-    m_Value: 83.30743
+    m_Value: 107.39392
   m_Ortho:
     m_Target: 0
     speed: 2
