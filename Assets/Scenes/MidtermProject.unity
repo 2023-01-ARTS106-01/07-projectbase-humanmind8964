@@ -1212,7 +1212,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0c66a64c6bca0964b9d90b46f85024b3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c04dff02f11a84546a5461197e62ca1c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -6386,7 +6386,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0c66a64c6bca0964b9d90b46f85024b3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 9839161bf4af64adbac9fa042cf3db24, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -9440,7 +9440,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: d870ace922940490aa54ea1ff3722b14, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -15638,7 +15638,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.25
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.802082
@@ -16082,7 +16082,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0c66a64c6bca0964b9d90b46f85024b3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 1093ae591e3a54a6ebd894b8080a7d3d, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -19400,9 +19400,21 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8200000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
+      propertyPath: m_Volume
+      value: 0.303
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
+      propertyPath: m_FootstepSounds.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
+      propertyPath: m_FootstepSounds.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 8bc94ec6ed537e743b481638bdcd503d, type: 3}
     - target: {fileID: 14300000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_Height
       value: 1.8
@@ -49657,8 +49669,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1587396020}
-  m_LocalRotation: {x: -0.045376614, y: 0.94212013, z: 0.14238325, w: 0.3001294}
-  m_LocalPosition: {x: -119.81582, y: 3.0903816, z: -8.280029}
+  m_LocalRotation: {x: -0.12773956, y: 0.8717831, z: 0.31861895, w: 0.34951234}
+  m_LocalPosition: {x: -171.30939, y: -102.9529, z: -10.413071}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -54516,7 +54528,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0c66a64c6bca0964b9d90b46f85024b3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 478ef8e29ddc64b2d8ea8f669656a621, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -55270,7 +55282,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0c66a64c6bca0964b9d90b46f85024b3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 65d137064c94342adb4d25bd66b89bee, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
